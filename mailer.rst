@@ -465,7 +465,7 @@ it with:
 
 .. code-block:: terminal
 
-    $ composer require twig/extra-bundle twig/cssinliner-extra
+    $ composer require twig/cssinliner-extra
 
 The extension is enabled automatically. To use it, wrap the entire template
 with the ``inline_css`` filter:
@@ -567,7 +567,7 @@ the extension in your application:
 
 .. code-block:: terminal
 
-    $ composer require twig/extra-bundle twig/inky-extra
+    $ composer require twig/inky-extra
 
 The extension adds an ``inky_to_html`` filter, which can be used to convert
 parts or the entire email contents from Inky to HTML:
